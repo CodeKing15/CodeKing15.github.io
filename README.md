@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Page
+title: Welcome to CodeKing15's homepage
 
 You can use the [editor on GitHub](https://github.com/CodeKing15/CodeKing15.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
